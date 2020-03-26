@@ -1,6 +1,11 @@
-# Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz? | Risale-i Nur’u Okuma Usulü - 2
+---
+title: Risale-i Nur’u Okuma Usulü - 2
+image: images/spring-bird-2295431.jpg
+---
 
-![](https://risalenotlari.github.io/images/spring-bird-2295431_1920.jpg)
+# Risale-i Nur’u Okuma Usulü - 2: Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?
+
+![](https://risalenotlari.github.io/blog/images/spring-bird-2295431.jpg)
 
 - [Bu Bölümün Videosu](https://www.youtube.com/watch?v=ma2hfvmEtQM)
 
