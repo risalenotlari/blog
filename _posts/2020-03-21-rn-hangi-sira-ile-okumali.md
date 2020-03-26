@@ -48,7 +48,8 @@ Dört kitabı şu şekilde de sıralayabiriliz:
 - Hakikat Kapısı: **Lem'alar**
 - Marifet Kapısı: **Şualar**
 
-Tablo - 1:
+#### Tablo - 1:
+
 | Kitap | İçerik |
 |-|-|
 | **Sözler:** | Genel ve temel imani meseleleri içerir. Allah'ın varlığının ispatı, Haşir, Kader, Kur'an'ın mucize oluşu gibi. |
@@ -93,7 +94,8 @@ Pencere, şua, lem'a, nokta, işaret...:
 **Muhakemat**  
 **İşarat'ül-İ'caz**
 
-Tablo - 2:
+#### Tablo - 2:
+
 | Kitap | İçerik |
 |-|-|
 | **Asa-yı Musa** | 3. Dağ yolculuğunu gerçekleştirmek için asaya ihtiyacımız var. Vurduğu yerden marifet fışkırtacak. |
