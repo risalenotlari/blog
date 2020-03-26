@@ -31,14 +31,15 @@ title: "Risale-i Nur’u Okuma Usulü - 2"
 - Koşup koşup düşmek, yerinde zıplayıp aynı yere düşme olmamalı. Az bile olsa sürekli olan amellere daha makbüldür.
 - Kendi aramızda müzakere bir zikir halkası
 - Tek başına açılmayan bazı şeylere birlikte okurken açılır
+
 ---
 
-1.Düzenli okuma: 
+### 1.Düzenli okuma: 
 - Eserleri azimle düzenli olarak - az bile olsa - her gün okumaya gayret etmek.
 
 ---
 
-2.Beraber/müzakereli okuma: 
+### 2.Beraber/müzakereli okuma: 
 - Eserlerin birlikte müzakere edilerek okunması. 3 kişi olsa yeter.
 - Şahıs değil metin etrafında toplanılması. BZH değil RN etrafında toplanılması. O metne muhatap olma, anlama, ilişkiye geçme. Ancak birlikte okumakla mümkün.
 - Önceden okuyup hazırlıklı gelme. Sen ne anladın ben ne anladım üzerinden ders yapma.
@@ -47,10 +48,10 @@ title: "Risale-i Nur’u Okuma Usulü - 2"
 
 ---
 
-3.Öğrendiklerimiz başkalarıyla paylaşma:
+### 3.Öğrendiklerimiz başkalarıyla paylaşma:
 - Öğrendiklerimizin başkalarına anlatma/yayma
 
 ---
 
-4.Yukarıdaki üç adım icerisinde sorularla konuyu daha da açıp derinlemesine anlaşılmasını sağlama
-- Konuların çeşitli sorular ve sorgulamalarla derinlemesine tahlil edilmesi, kavrama adına çok önemli ve faydalıdır.
+### 4.Sorularla konuyu daha da açıp derinlemesine anlaşılmasını sağlama:
+- Yukarıdaki üç adım icerisinde konuların çeşitli sorular ve sorgulamalarla derinlemesine tahlil edilmesi, kavrama adına çok önemli ve faydalıdır.
