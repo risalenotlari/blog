@@ -34,7 +34,6 @@ RN'da pek çok mesele dört üzerine:
 - Dört kelime
 - Rabbimizi bize tarif eden dört külli muarif: Kainat, Kuran, İnsan, Vicdan
 
-
 RN'da da dört temel kitap, içiçe kümeler gibi:
 - Sözlerle başlar, Besmele sözlerin başındadır: Bismillah her hayrın başıdır...
 - Küçük sözler RN'ın adeta fatihası, özeti hükmünde
@@ -75,6 +74,7 @@ Bir de:
 * Pencere, şua, lem'a, nokta, işaret...
 * Pencere bir mekandan başka bir mekana açar, bir metinden, hakikatten başka bir metne, hakikate
 * RN'nin birbirine olan göndermeleri bir nuraniyet sırrı ifade eder. Bütünseldir. Zihin yapıcı, birbirini tamamlar, içiçe         geçmiş metinlerdir.
+
 ---
 ### 2.Yıl
 ---
@@ -84,6 +84,7 @@ Bir de:
 **Tarihçe-i Hayat**
 
 İlk dört kitapta muhatap kitlesi şuur sahibi bütün insanlar iken, ikinci dört kitapta ise muhatap kitlesi Hizmet'i İmaniye ve Kur'aniye'yi hayatının gayesi edinmiş kimselerdir.
+
 ---
 ### 3.Yıl
 ---
@@ -103,7 +104,8 @@ Bir de:
 | **İşaratü'l-İ'caz** |  |
 
 Hitap dili değişiyor. İlk dört kitap bütün insanlığa hitaben, ikinci dört kitap 'hizmetteki kardeşlerim', bu üçüncü dört kitapta muhatap kitlesi giderek daha da daralmaktadır.  
-MN'de 'İlem eyyühel aziz', doğrudan hitap, adeta dizinin dibine oturtma. İİ'da 'Azizim' ...
+MN'de 'İlem eyyühel aziz', doğrudan hitap, adeta dizinin dibine oturtma. İİ'da 'Azizim'
+
 ---
 ### Hangi Sıklıkta, Yardımcı Kaynaklar
 ---
@@ -123,6 +125,7 @@ Podcast olarak seslendirilmiş. Okuyamanlar buradan dinleyebilirler.
 - [Asa-yı Musa](https://podcasts.apple.com/us/podcast/asa-yi-musa-risale-i-nur-k%C3%BClliyati/id1016417339)
 - [Mesnevi-i Nuriye](https://podcasts.apple.com/us/podcast/mesnevi-i-nuriye-risale-i-nur-k%C3%BClliyati/id1016441813)
 - [İşarat'ül-İ'caz](https://podcasts.apple.com/us/podcast/isarat%C3%BCl-icaz-risale-i-nur-k%C3%BClliyati/id1016441224)
+
 ---
 ### İlgili Yazılar:
 ---
