@@ -5,7 +5,7 @@ image: images/spring-bird-2295431.jpg
 
 # Risale-i Nur’u Okuma Usulü - 2: Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?
 
-![](https://{{site.baseurl}}/images/spring-bird-2295431.jpg)
+![]({{site.baseurl}}/images/spring-bird-2295431.jpg)
 
 - [Bu Bölümün Videosu](https://www.youtube.com/watch?v=ma2hfvmEtQM)
 
