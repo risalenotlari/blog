@@ -48,7 +48,7 @@ Dört kitabı şu şekilde de sıralayabiriliz:
 - Hakikat Kapısı: **Lem'alar**
 - Marifet Kapısı: **Şualar**
 
-
+Tablo - 1:
 | Kitap | İçerik |
 |-|-|
 | **Sözler:** | Genel ve temel imani meseleleri içerir. Allah'ın varlığının ispatı, Haşir, Kader, Kur'an'ın mucize oluşu gibi. |
