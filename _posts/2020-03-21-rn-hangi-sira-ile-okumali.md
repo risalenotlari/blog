@@ -4,9 +4,8 @@ image: images/flower-3140492.jpg
 description: "Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?"
 title: "Risale-i Nur'u Okuma Usulü - 1"
 ---
-# Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?
-
-## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=UJlO9dyrWq4)
+### Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=UJlO9dyrWq4)
+### Diğer Bölümler: [2.Bölüm]({{site.baseurl}}/2020/03/22/rn-daha-verimli-nasil-okunur.html)
 
 ![]({{site.baseurl}}/images/flower-3140492.jpg)
 
@@ -63,7 +62,7 @@ Ek olarak:
 - *Sözler* itikadi ve şer'i meseleleri irdeleyen ana metin. 
 - *Mektubat* ehli tarik bir talebesine verdiği cevaplardan oluşmaktadır büyük ölçüde. Tasavvuf İslam'ın ihsan şuurunu temsil eder. 
 - *Lem'alar* bir hakikat kitabıdır. Çok incelikli meselelere incelikli dokunuşlar değinmeler yapar. 
-- *Şualar* bir marifet kitabıdır. Çok derinlikli bir metindir. 2.Şua - bu risaleyi anlayarak okuyan imanını kurtarı. 7.Şua - BZH'nin kendi seyr-u sülukunu anlattığı bir metindir. 15.Şua - marifet yolculuğu zirveye ulaşır, dağın zirvesine çıkmış olursunuz.
+- *Şualar* bir marifet kitabıdır. Çok derinlikli bir metindir. 2.Şua - bu risaleyi anlayarak okuyan imanını kurtarır. 7.Şua - BZH'nin kendi seyr-u sülukunu anlattığı bir metindir. 15.Şua - marifet yolculuğu zirveye ulaşır, dağın zirvesine çıkmış olursunuz.
 
 Bir de:
 - **Sözler** - Şeriat - Subhanallah
@@ -72,7 +71,7 @@ Bir de:
 - **Şualar** - Marifet - La ilahe illallah
 
 * Pencere, şua, lem'a, nokta, işaret...
-* Pencere bir mekandan başka bir mekana açar, bir metinden, hakikatten başka bir metne, hakikate
+* Pencere bir mekandan başka bir mekana açılır, bir metinden, hakikatten başka bir metne, hakikate geçme, açılma.
 * RN'nin birbirine olan göndermeleri bir nuraniyet sırrı ifade eder. Bütünseldir. Zihin yapıcı, birbirini tamamlar, içiçe         geçmiş metinlerdir.
 
 ---
@@ -127,6 +126,3 @@ Podcast olarak seslendirilmiş. Okuyamanlar buradan dinleyebilirler.
 - [İşarat'ül-İ'caz](https://podcasts.apple.com/us/podcast/isarat%C3%BCl-icaz-risale-i-nur-k%C3%BClliyati/id1016441224)
 
 ---
-### İlgili Yazılar:
----
-- [2. Bölüm Notları](https://risalenotlari.github.io/blog/2020/03/22/rn-daha-verimli-nasil-okunur.html)
