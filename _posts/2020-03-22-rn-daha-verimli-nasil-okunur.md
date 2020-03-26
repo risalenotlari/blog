@@ -4,9 +4,8 @@ image: images/spring-bird-2295431.jpg
 description: "Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?"
 title: "Risale-i Nur’u Okuma Usulü - 2"
 ---
-# Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?
-
-## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=ma2hfvmEtQM)
+### Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=ma2hfvmEtQM)
+### Diğer Bölümler: [1.Bölüm]({{site.baseurl}}/2020/03/21/rn-hangi-sira-ile-okumali.html)
 
 ![]({{site.baseurl}}/images/spring-bird-2295431.jpg)
 
