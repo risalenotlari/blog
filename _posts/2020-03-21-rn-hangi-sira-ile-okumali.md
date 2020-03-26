@@ -101,7 +101,7 @@ Bir de:
 |-|-|
 | **Muhakemat** | İşaratü'l-İ'caz'ın önsözü mahiyetindedir. |
 |-|-|
-| **İşaratü'l-İ'caz** |  |
+| **İşaratü'l-İ'caz** | d |
 
 Hitap dili değişiyor. İlk dört kitap bütün insanlığa hitaben, ikinci dört kitap 'hizmetteki kardeşlerim', bu üçüncü dört kitapta muhatap kitlesi giderek daha da daralmaktadır.  
 MN'de 'İlem eyyühel aziz', doğrudan hitap, adeta dizinin dibine oturtma. İİ'da 'Azizim'
