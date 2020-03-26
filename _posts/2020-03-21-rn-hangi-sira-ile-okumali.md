@@ -1,6 +1,6 @@
 ---
 title: "Risale-i Nuru Okuma Usulü - 1"
-image: /blog/images/flower-3140492.jpg
+image: images/flower-3140492.jpg
 ---
 
 # (Risale-i Nur’u Okuma Usulü - 1) - Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?
