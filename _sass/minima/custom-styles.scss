@@ -6,6 +6,13 @@
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
+table {
+  white-space: normal;
+  font-size: 100%;
+  td{
+    max-width: none;
+  }
+}
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
