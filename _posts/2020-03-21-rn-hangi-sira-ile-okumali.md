@@ -1,13 +1,13 @@
 ---
 title: "Risale-i Nuru Okuma Usulü - 1"
-image: /blog/images/flower-3140492_1920.jpg
+image: /blog/images/flower-3140492.jpg
 ---
 
 # (Risale-i Nur’u Okuma Usulü - 1) - Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?
 
 ## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=UJlO9dyrWq4)
 
-![](https://risalenotlari.github.io/blog/images/flower-3140492_1920.jpg)
+![](https://risalenotlari.github.io/blog/images/flower-3140492.jpg)
 
 ## Dört Mevsim, Dört Kitap
 
