@@ -7,7 +7,7 @@ image: images/flower-3140492.jpg
 
 ## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=UJlO9dyrWq4)
 
-![](https://risalenotlari.github.io/blog/images/flower-3140492.jpg)
+![](https://{{site.baseurl}}/images/flower-3140492.jpg)
 
 ## Dört Mevsim, Dört Kitap
 
