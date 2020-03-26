@@ -48,6 +48,7 @@ Dört kitabı şu şekilde de sıralayabiriliz:
 - Hakikat Kapısı: **Lem'alar**
 - Marifet Kapısı: **Şualar**
 
+
 | Kitap | İçerik |
 |-|-|
 | **Sözler:** | Genel ve temel imani meseleleri içerir. Allah'ın varlığının ispatı, Haşir, Kader, Kur'an'ın mucize oluşu gibi. |
@@ -70,9 +71,9 @@ Bir de:
 - **Lem'alar** - Hakikat - Allahuekber
 - **Şualar** - Marifet - La ilahe illallah
 
-* Pencere, şua, lem'a, nokta, işaret...
-* Pencere bir mekandan başka bir mekana açılır, bir metinden, hakikatten başka bir metne, hakikate geçme, açılma.
-* RN'nin birbirine olan göndermeleri bir nuraniyet sırrı ifade eder. Bütünseldir. Zihin yapıcı, birbirini tamamlar, içiçe         geçmiş metinlerdir.
+Pencere, şua, lem'a, nokta, işaret...:
+- Pencere bir mekandan başka bir mekana açılır, bir metinden, hakikatten başka bir metne, hakikate geçme, açılma.
+- RN'nin birbirine olan göndermeleri bir nuraniyet sırrı ifade eder. Bütünseldir. Zihin yapıcı, birbirini tamamlar, içiçe         geçmiş metinlerdir.
 
 ---
 ### 2.Yıl
@@ -100,8 +101,8 @@ Bir de:
 | **Mesnevi-i Nuriye** | RN'un fidanlığı hükmünde. |
 |-|-|
 | **Muhakemat** | İşaratü'l-İ'caz'ın önsözü mahiyetindedir. |
-|-|-|
-| **İşaratü'l-İ'caz** | d |
+|--|--|
+| **İşaratü'l-İ'caz** | -- |
 
 Hitap dili değişiyor. İlk dört kitap bütün insanlığa hitaben, ikinci dört kitap 'hizmetteki kardeşlerim', bu üçüncü dört kitapta muhatap kitlesi giderek daha da daralmaktadır.  
 MN'de 'İlem eyyühel aziz', doğrudan hitap, adeta dizinin dibine oturtma. İİ'da 'Azizim'
@@ -125,5 +126,3 @@ Podcast olarak seslendirilmiş. Okuyamanlar buradan dinleyebilirler.
 - [Asa-yı Musa](https://podcasts.apple.com/us/podcast/asa-yi-musa-risale-i-nur-k%C3%BClliyati/id1016417339)
 - [Mesnevi-i Nuriye](https://podcasts.apple.com/us/podcast/mesnevi-i-nuriye-risale-i-nur-k%C3%BClliyati/id1016441813)
 - [İşarat'ül-İ'caz](https://podcasts.apple.com/us/podcast/isarat%C3%BCl-icaz-risale-i-nur-k%C3%BClliyati/id1016441224)
-
----
