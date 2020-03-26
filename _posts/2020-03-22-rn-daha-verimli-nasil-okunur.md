@@ -1,9 +1,12 @@
 ---
-title: Risale-i Nur’u Okuma Usulü - 2
+layout: post
 image: images/spring-bird-2295431.jpg
+description: "Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?"
+title: "Risale-i Nur’u Okuma Usulü - 2"
 ---
+# Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?
 
-# Risale-i Nur’u Okuma Usulü - 2: Risale-i Nur’u Nasıl Daha Verimli Okuyabiliriz?
+## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=ma2hfvmEtQM)
 
 ![]({{site.baseurl}}/images/spring-bird-2295431.jpg)
 
