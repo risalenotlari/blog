@@ -50,7 +50,7 @@ Dört kitabı şu şekilde de sıralayabiriliz:
 
 #### Tablo - 1:
 
-| Kitap | İçerik |
+| ##### Kitap | ##### İçerik |
 |-|-|
 | **Sözler:** | Genel ve temel imani meseleleri içerir. Allah'ın varlığının ispatı, Haşir, Kader, Kur'an'ın mucize oluşu gibi. |
 |-|-|
