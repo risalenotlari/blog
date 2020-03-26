@@ -1,18 +1,19 @@
 ---
 layout: post
 image: images/flower-3140492.jpg
+description: "Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?"
 title: "Risale-i Nuru Okuma Usulü - 1"
 ---
-# (Risale-i Nur’u Okuma Usulü - 1) - Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?
+# Risale-i Nur Külliyatı’ndaki Eserleri Hangi Sıra ile Okuyabiliriz?
 
 ## Kaynak: [YT - Kardelen - Video](https://www.youtube.com/watch?v=UJlO9dyrWq4)
 
 ![]({{site.baseurl}}/images/flower-3140492.jpg)
 
 ## Dört Mevsim, Dört Kitap
-
+---
 ### 1.Yıl
-
+---
 **Sözler**  
 **Mektubat**  
 **Lem'alar**  
@@ -74,18 +75,18 @@ Bir de:
 * Pencere, şua, lem'a, nokta, işaret...
 * Pencere bir mekandan başka bir mekana açar, bir metinden, hakikatten başka bir metne, hakikate
 * RN'nin birbirine olan göndermeleri bir nuraniyet sırrı ifade eder. Bütünseldir. Zihin yapıcı, birbirini tamamlar, içiçe         geçmiş metinlerdir.
-
+---
 ### 2.Yıl
-
+---
 **Kastamonu Lahikası**  
 **Emirdağ Lahikası**  
 **Barla Lahikası**  
 **Tarihçe-i Hayat**
 
 İlk dört kitapta muhatap kitlesi şuur sahibi bütün insanlar iken, ikinci dört kitapta ise muhatap kitlesi Hizmet'i İmaniye ve Kur'aniye'yi hayatının gayesi edinmiş kimselerdir.
-
+---
 ### 3.Yıl
-
+---
 **Asa-yı Musa**  
 **Mesnevi-i Nuriye**  
 **Muhakemat**  
@@ -103,9 +104,9 @@ Bir de:
 
 Hitap dili değişiyor. İlk dört kitap bütün insanlığa hitaben, ikinci dört kitap 'hizmetteki kardeşlerim', bu üçüncü dört kitapta muhatap kitlesi giderek daha da daralmaktadır.  
 MN'de 'İlem eyyühel aziz', doğrudan hitap, adeta dizinin dibine oturtma. İİ'da 'Azizim' ...
-
+---
 ### Hangi Sıklıkta, Yardımcı Kaynaklar
-
+---
 Sayfa sayısını günlere bölüp okumak. Biriktirip okumak değil her gün okumak. Bir virddir, beslenilen bir kaynaktır. Esas olan her gün okumak. Zaruri bir mania olmadıkça asla aksatmamak. 
 
 Podcast olarak seslendirilmiş. Okuyamanlar buradan dinleyebilirler.
@@ -122,6 +123,7 @@ Podcast olarak seslendirilmiş. Okuyamanlar buradan dinleyebilirler.
 - [Asa-yı Musa](https://podcasts.apple.com/us/podcast/asa-yi-musa-risale-i-nur-k%C3%BClliyati/id1016417339)
 - [Mesnevi-i Nuriye](https://podcasts.apple.com/us/podcast/mesnevi-i-nuriye-risale-i-nur-k%C3%BClliyati/id1016441813)
 - [İşarat'ül-İ'caz](https://podcasts.apple.com/us/podcast/isarat%C3%BCl-icaz-risale-i-nur-k%C3%BClliyati/id1016441224)
-
+---
 ### İlgili Yazılar:
+---
 - [2. Bölüm Notları](https://risalenotlari.github.io/blog/2020/03/22/rn-daha-verimli-nasil-okunur.html)
