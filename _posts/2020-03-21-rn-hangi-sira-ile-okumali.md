@@ -93,7 +93,7 @@ Pencere, şua, lem'a, nokta, işaret...:
 **Muhakemat**  
 **İşarat'ül-İ'caz**
 
-
+Tablo - 2:
 | Kitap | İçerik |
 |-|-|
 | **Asa-yı Musa** | 3. Dağ yolculuğunu gerçekleştirmek için asaya ihtiyacımız var. Vurduğu yerden marifet fışkırtacak. |
