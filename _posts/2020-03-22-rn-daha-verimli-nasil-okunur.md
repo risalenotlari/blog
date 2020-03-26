@@ -48,8 +48,7 @@ title: "Risale-i Nur’u Okuma Usulü - 2"
 
 ---
 
-### 3.Öğrendiklerimiz başkalarıyla paylaşma:
-- Öğrendiklerimizin başkalarına anlatma/yayma
+### 3.Öğrendiklerimizi başkalarıyla paylaşma:
 
 ---
 
