@@ -9,10 +9,6 @@ title: "Risale-i Nur’u Okuma Usulü - 2"
 
 ![]({{site.baseurl}}/images/spring-bird-2295431.jpg)
 
-- [Bu Bölümün Videosu](https://www.youtube.com/watch?v=ma2hfvmEtQM)
-
-- Önceki Bölüm: [1.Bölüm Notları](https://risalenotlari.github.io/2020/03/21/hangi-sira-ile-okumali.html)
-
 - Risale-i Nur vird. Vird her gün düzenli okunan manevi besleme kaynakları. Ekmek kadar su kadar hava kadar ihtiyaç...
 - RN Kuran'ın bizim zamanımıza bakan manevi bir mucizesi. RN bizim Kuran'ı anlama çabamızdır.Kuran ayetlerine ve Kainat ayetlerine açılma, okuma, nüfuz edeme, anlama çabamızdır.
 - Suyun kıyısında durup da susuz kalmak. Yiyeceklerin yanında aç kalma
@@ -41,18 +37,31 @@ title: "Risale-i Nur’u Okuma Usulü - 2"
 
 - Azm-u cezm-u kast ederek (bir işi başarmak için tüm olanakları kullanmak ve bütün olumsuzluklara rağmen asla pes etmemek) yola çıkmak lazım.
 - Koşup koşup düşmek, yerinde zıplayıp aynı yere düşme olmamalı. Az bile olsa sürekli olan amellere daha makbüldür.
-- Kendi aramızda müzakere biz zikir halkası
+- Kendi aramızda müzakere bir zikir halkası
 - Tek başına açılmayan bazı şeylere birlikte okurken açılır
+
+---
 
 1. Düzenli okuma: 
 - Eserleri azimle düzenli olarak - az bile olsa - her gün okumaya gayret etmek.
+
+---
+
 2. Beraber/müzakereli okuma: 
 - Eserlerin birlikte müzakere edilerek okunması. 3 kişi olsa yeter.
 - Şahıs değil metin etrafında toplanılması. BZH değil RN etrafında toplanılması. O metne muhatap olma, anlama, ilişkiye geçme. Ancak birlikte okumakla mümkün.
 - Önceden okuyup hazırlıklı gelme. Sen ne anladın ben ne anladım üzerinden ders yapma.
 - Derinleştirme adına başka şeyler de eklenebilir ama dersin özü üç kişinin bir metinin etrafında toplanıp o metni anlama çabası.
 - RN kimsenin tekelinde değildir. Herkesin etrafında toplanıp onu daha iyi anlamaya çalışması.
+
+---
+
 3. Öğrendiklerimiz başkalarıyla paylaşma:
-- Öğrendiklerimizin başkalarına anlatma/yayme
+- Öğrendiklerimizin başkalarına anlatma/yayma
+
+---
+
 4. Yukarıdaki üç adım icerisinde sorularla konuyu daha da açıp derinlemesine anlaşılmasını sağlama
 - Konuların çeşitli sorular ve sorgulamalarla derinlemesine tahlil edilmesi, kavrama adına çok önemli ve faydalıdır.
+
+---
